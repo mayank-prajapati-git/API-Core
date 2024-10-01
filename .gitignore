@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NageajTea.API/.config
+/NageajTea.API/bin
+/NageajTea.API/obj
+/NagrajTea.Application/bin
+/NagrajTea.Application/obj
+/NagrajTea.Common/bin
+/NagrajTea.Common/obj
+/NagrajTea.Core/bin
+/NagrajTea.Core/obj
+/NagrajTea.Infrastructure/bin
+/NagrajTea.Infrastructure/obj
+/NageajTea.API/Properties
